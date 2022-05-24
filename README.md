@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# placement-project-logistic-regression
